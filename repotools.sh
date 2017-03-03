@@ -43,6 +43,7 @@ tools=("
 	rdesktop
 	remmina
 	rpl
+	samdump2
 	scalpel
 	screen
 	snmp
