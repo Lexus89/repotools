@@ -8,6 +8,7 @@
 tools=("
 	bkhive
 	bridge-utils
+	build-essential
 	cabextract
 	cadaver
 	cifs-utils
@@ -28,6 +29,7 @@ tools=("
 	libssl-dev
 	macchanger
 	medusa
+	mingw-w64
 	mysql-client
 	netdiscover
 	network-manager-vpnc
