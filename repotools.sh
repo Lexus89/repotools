@@ -12,6 +12,8 @@ tools=("
 	cabextract
 	cadaver
 	cifs-utils
+	default-java-plugin
+	default-jre
 	dos2unix
 	dsniff
 	ent
@@ -22,10 +24,8 @@ tools=("
 	ghex
 	git-core
 	hping3
-	icedtea-7-plugin
 	ipcalc
 	iw
-	libssl0.9.8
 	libssl-dev
 	macchanger
 	medusa
@@ -35,11 +35,10 @@ tools=("
 	network-manager-vpnc
 	nfs-common
 	nload
-	openjdk-7-jre
-	p7zip
+	p7zip-full
 	perl
-	php5-cli
-	php5-curl
+	php-cli
+	php-curl
 	pwgen
 	python-scapy
 	rdesktop
@@ -60,6 +59,7 @@ tools=("
 	unzip
 	vim
 	vlan
+	wine
 	wipe
 	xtightvncviewer
 	yersinia
