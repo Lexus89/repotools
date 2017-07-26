@@ -12,6 +12,7 @@ tools=("
 	cabextract
 	cadaver
 	cifs-utils
+	chromium-browser
 	default-java-plugin
 	default-jre
 	dos2unix
