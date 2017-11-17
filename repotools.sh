@@ -33,6 +33,7 @@ tools=("
 	mingw-w64
 	mysql-client
 	netdiscover
+	netsed
 	network-manager-vpnc
 	nfs-common
 	nload
