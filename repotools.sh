@@ -6,6 +6,7 @@
 
 ## Tools list
 tools=("
+	apache2
 	bkhive
 	bridge-utils
 	build-essential
@@ -27,6 +28,7 @@ tools=("
 	hping3
 	ipcalc
 	iw
+	libapache2-mod-php
 	libssl-dev
 	macchanger
 	medusa
