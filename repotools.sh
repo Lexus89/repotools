@@ -41,6 +41,7 @@ tools=("
 	perl
 	php-cli
 	php-curl
+	powershell
 	pwgen
 	python-scapy
 	rdesktop
