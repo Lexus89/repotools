@@ -27,6 +27,7 @@ tools=("
 	git-core
 	hping3
 	ipcalc
+	ipmitool
 	iw
 	libapache2-mod-php
 	libssl-dev
