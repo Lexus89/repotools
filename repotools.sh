@@ -68,7 +68,6 @@ tools=("
 	wine
 	wipe
 	xtightvncviewer
-	yersinia
 ")
 
 ## Install dependencies
