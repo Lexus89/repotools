@@ -42,6 +42,8 @@ tools=("
 	nfs-common
 	nload
 	p7zip-full
+	pcscd
+	pcsc-tools
 	perl
 	php-cli
 	php-curl
