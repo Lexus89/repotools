@@ -33,6 +33,7 @@ tools=("
 	libssl-dev
 	macchanger
 	medusa
+	meld
 	mingw-w64
 	mysql-client
 	netdiscover
