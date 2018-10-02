@@ -35,6 +35,7 @@ tools=("
 	medusa
 	meld
 	mingw-w64
+	mono-complete
 	mysql-client
 	netdiscover
 	netsed
