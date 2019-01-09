@@ -57,6 +57,7 @@ tools=("
 	samdump2
 	scalpel
 	screen
+	smbclient
 	snmp
 	snmp-mibs-downloader
 	subversion
