@@ -83,7 +83,8 @@ do
 	if [ ! "$installed" ]
 	then
 		echo "Installing package '$i'."
-		export DEBIAN_FRONTEND=noninteractive apt-get -y install $i
+		export DEBIAN_FRONTEND=noninteractive
+		apt-get -y install $i
 	else
 		echo "Package $i is already installed."
 	fi
