@@ -29,6 +29,7 @@ tools=("
 	ipcalc
 	ipmitool
 	iw
+	krb5-user
 	libapache2-mod-php
 	libssl-dev
 	macchanger
