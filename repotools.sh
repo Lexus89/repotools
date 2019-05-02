@@ -50,6 +50,7 @@ tools=("
 	php-cli
 	php-curl
 	powershell
+	putty
 	pwgen
 	python-scapy
 	rdesktop
