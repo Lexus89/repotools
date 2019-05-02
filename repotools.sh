@@ -41,6 +41,7 @@ tools=("
 	netdiscover
 	netsed
 	network-manager-vpnc
+	net-tools
 	nfs-common
 	nload
 	p7zip-full
