@@ -74,6 +74,7 @@ tools=("
 	vim
 	vlan
 	wine
+	wine-stable
 	wipe
 	xtightvncviewer
 ")
