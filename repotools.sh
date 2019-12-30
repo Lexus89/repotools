@@ -14,6 +14,7 @@ tools=("
 	cadaver
 	cifs-utils
 	chromium-browser
+	curl
 	default-java-plugin
 	default-jre
 	dos2unix
