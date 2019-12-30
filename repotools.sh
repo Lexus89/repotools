@@ -93,3 +93,5 @@ do
 		echo "Package $i is already installed."
 	fi
 done
+
+update-rc.d apache2 disable
