@@ -70,6 +70,7 @@ tools=("
 	testdisk
 	tftp
 	traceroute
+	tshark
 	unrar
 	unzip
 	vim
