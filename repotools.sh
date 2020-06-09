@@ -22,6 +22,7 @@ tools=("
 	ent
 	filezilla
 	finger
+	firefox
 	foremost
 	gparted
 	ghex
