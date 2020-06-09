@@ -45,6 +45,7 @@ tools=("
 	net-tools
 	nfs-common
 	nload
+	open-vm-tools-desktop
 	p7zip-full
 	pcscd
 	pcsc-tools
