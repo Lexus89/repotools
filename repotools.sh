@@ -77,6 +77,7 @@ tools=("
 	unzip
 	vim
 	vlan
+	wimtools
 	wine
 	wine-stable
 	wipe
