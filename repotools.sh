@@ -7,7 +7,6 @@
 ## Tools list
 tools=("
 	apache2
-	bkhive
 	bridge-utils
 	build-essential
 	cabextract
@@ -15,7 +14,6 @@ tools=("
 	cifs-utils
 	chromium-browser
 	curl
-	default-java-plugin
 	default-jre
 	dos2unix
 	dsniff
@@ -53,10 +51,9 @@ tools=("
 	perl
 	php-cli
 	php-curl
-	powershell
 	putty
 	pwgen
-	python-scapy
+	python3-scapy
 	rdesktop
 	remmina
 	rpl
